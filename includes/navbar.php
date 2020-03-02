@@ -18,6 +18,9 @@
                 <a class="nav-link" href="products-and-services.php">Products & Services</a>
             </li>
             <li class="nav-item active">
+                <a class="nav-link" href="blog.php">Blog</a>
+            </li>
+            <li class="nav-item active">
                 <a class="nav-link" href="contact-us.php">Contact Us</a>
             </li>
         </ul>
