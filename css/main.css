@@ -1,0 +1,70 @@
+/* CourierPrime-Bold */
+
+@font-face {
+    font-family: "CourierPrime-Bold";
+    src: url("./fonts/CourierPrime-Bold.eot");
+    /* IE9 Compat Modes */
+    src: url("./fonts/CourierPrime-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/CourierPrime-Bold.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/CourierPrime-Bold.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/CourierPrime-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/CourierPrime-Bold.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/CourierPrime-Bold.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* CourierPrime-Bold */
+
+@font-face {
+    font-family: "CourierPrime-BoldItalic";
+    src: url("./fonts/CourierPrime-BoldItalic.eot");
+    /* IE9 Compat Modes */
+    src: url("./fonts/CourierPrime-BoldItalic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/CourierPrime-BoldItalic.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/CourierPrime-BoldItalic.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/CourierPrime-BoldItalic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/CourierPrime-BoldItalic.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/CourierPrime-BoldItalic.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* CourierPrime-Italic */
+
+@font-face {
+    font-family: "CourierPrime-Italic";
+    src: url("./fonts/CourierPrime-Italic.eot");
+    /* IE9 Compat Modes */
+    src: url("./fonts/CourierPrime-Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/CourierPrime-Italic.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/CourierPrime-Italic.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/CourierPrime-Italic.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/CourierPrime-Italic.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/CourierPrime-Italic.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* CourierPrime-Regular */
+
+@font-face {
+    font-family: "CourierPrime-Regular";
+    src: url("./fonts/CourierPrime-Regular.eot");
+    /* IE9 Compat Modes */
+    src: url("./fonts/CourierPrime-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/CourierPrime-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/CourierPrime-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/CourierPrime-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/CourierPrime-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/CourierPrime-Regular.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+.custom-font {
+    font-family: 'CourierPrime-Regular';
+}
